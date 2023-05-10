@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
   }
-  @media only screen and (max-width: auto) {
+
   body {
    background-image: url("back.jpg");
    background-size: 1920px 1080px;
@@ -14,12 +14,7 @@
     color: #fff;
     font-family: Arial, sans-serif;
   }
-}
-@media only screen and (max-width: 768px) {
-  body {
-    background-size: auto 100%;
-  }
-}
+
   header {
 background-color:  #444444;
     display: flex;
